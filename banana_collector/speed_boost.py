@@ -1,15 +1,14 @@
-# speed_boost.py
 import pygame
 import random
-from game_settings import SCREEN_WIDTH, SCREEN_HEIGHT
 
 class SpeedBoost:
-    def __init__(self):
+    def __init__(self, screen_width, screen_height):
         self.image = pygame.image.load("images/speed_boost.png")
         self.rect = self.image.get_rect()
-        self.rect.x = random.randint(0, SCREEN_WIDTH - self.rect.width)
-        self.rect.y = random.randint(0, SCREEN_HEIGHT - self.rect.height)
+
+        # Randomize position within screen bounds
+        self.rect.x = random.randint(50, screen_width - 50)
+        self.rect.y = random.randint(50, screen_height - 50)
 
     def draw(self, screen):
         screen.blit(self.image, self.rect)
-

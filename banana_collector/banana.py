@@ -1,24 +1,19 @@
-# banana.py
 import pygame
 import random
-from game_settings import SCREEN_WIDTH, SCREEN_HEIGHT
 
-BANANA_TYPES = {
-    "regular": ("regular_banana.png", 1),
-    "golden": ("golden_banana.png", 5),
-    "rotten": ("rotten_banana.png", -2),
-}
 
 class Banana:
-    def __init__(self):
-        self.type, (image, self.points) = random.choice(list(BANANA_TYPES.items()))
-        self.image = pygame.image.load(f"images/{image}")
+    def __init__(self, screen_width, screen_height):
+        self.image = pygame.image.load("images/regular_banana.png")
         self.rect = self.image.get_rect()
-        self.rect.x = random.randint(0, SCREEN_WIDTH - self.rect.width)
-        self.rect.y = random.randint(0, SCREEN_HEIGHT - self.rect.height)
+
+        # Set random position within screen bounds
+        self.rect.x = random.randint(50, screen_width - 50)
+        self.rect.y = random.randint(50, screen_height - 50)
+
+        # Randomize points for banana types (regular, golden, rotten)
+        self.points = random.choice([1, 5, -2])
 
     def draw(self, screen):
         screen.blit(self.image, self.rect)
 
-    def get_points(self):
-        return self.points
