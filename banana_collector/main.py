@@ -107,7 +107,7 @@ while running:
         banana.draw(screen)
 
     for obstacle in obstacles:
-        obstacle.move()
+        obstacle.draw(screen)
         obstacle.draw(screen)
 
     for boost in boosts:
