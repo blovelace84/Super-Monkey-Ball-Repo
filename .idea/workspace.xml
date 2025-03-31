@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3dae7dbb-8f12-47e7-8499-8b3560efb930" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Super-Monkey-Ball-Repo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/banana.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/game_settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/images/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/images/golden_banana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/images/monkey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/images/regular_banana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/images/rock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/images/rotten_banana.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/images/snake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/images/speed_boost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/obstacle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/sounds/boost.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/sounds/collect.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/sounds/hit.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/banana_collector/speed_boost.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;blovelace84&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/blovelace84/Super-Monkey-Ball-Repo.git&quot;,
+    &quot;accountId&quot;: &quot;880a04e3-2351-4b94-ae4c-062b176ee110&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2utyoa4MFt599J11X4yfS3mpdoD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.game_settings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.speed_boost.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shado/PythonProject/Super-Monkey-Ball-Repo/banana_collector/sounds&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Shado\PythonProject\Super-Monkey-Ball-Repo\banana_collector\sounds" />
+      <recent name="C:\Users\Shado\PythonProject\Super-Monkey-Ball-Repo\banana_collector\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shado\PythonProject\Super-Monkey-Ball-Repo\banana_collector\sounds" />
+      <recent name="C:\Users\Shado\PythonProject\Super-Monkey-Ball-Repo\banana_collector\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dae7dbb-8f12-47e7-8499-8b3560efb930" name="Changes" comment="" />
+      <created>1743082341418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743082341418</updated>
+    </task>
+    <servers />
+  </component>
+</project>
