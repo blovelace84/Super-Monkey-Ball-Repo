@@ -16,6 +16,11 @@ clock = pygame.time.Clock()
 monkey = pygame.image.load("images/monkey.png")
 monkey_rect = monkey.get_rect(center=(SCREEN_WIDTH // 2, SCREEN_HEIGHT // 2))
 
+# Load sounds
+pygame.mixer.init()
+collect_sound = pygame.mixer.Sound("sounds/collect.mp3")  # Load banana collection sound
+collect_sound2 = pygame.mixer.Sound("sounds/hit.mp3")
+
 # Initialize first banana and obstacle
 current_banana = Banana(SCREEN_WIDTH, SCREEN_HEIGHT)
 current_obstacle = Obstacle(SCREEN_WIDTH, SCREEN_HEIGHT)
@@ -48,6 +53,7 @@ while running:
     # 🟡 Check for banana collection
     if monkey_rect.colliderect(current_banana.rect):
         score += 1  # Increase score
+        collect_sound.play()  # 🔊 Play sound effect
         current_banana = Banana(SCREEN_WIDTH, SCREEN_HEIGHT)  # Spawn new banana
 
     # 🪨 Obstacle delay before appearing
@@ -70,3 +76,4 @@ while running:
     clock.tick(30)  # Control FPS
 
 pygame.quit()
+
