@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dae7dbb-8f12-47e7-8499-8b3560efb930" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Super-Monkey-Ball-Repo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/banana.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/game_settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/images/background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/images/golden_banana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/images/monkey.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/images/regular_banana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/images/rock.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/images/rotten_banana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/images/snake.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/images/speed_boost.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/obstacle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/sounds/boost.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/sounds/collect.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/sounds/hit.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/banana_collector/speed_boost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +62,30 @@
       <recent name="C:\Users\Shado\PythonProject\Super-Monkey-Ball-Repo\banana_collector\sounds" />
       <recent name="C:\Users\Shado\PythonProject\Super-Monkey-Ball-Repo\banana_collector\images" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Super-Monkey-Ball-Repo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
